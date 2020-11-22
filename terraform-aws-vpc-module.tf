@@ -1,3 +1,4 @@
+# This is a sample VPC terrraform module for git practice only
 module "vpc" {
   source = "terraform-aws-modules/vpc/aws"
 
